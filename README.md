@@ -1,4 +1,4 @@
-[live](https://vercel.com/erenakhan/todo-list-react/GEtELuTYmc31CbgvWcJaFsDpzt64)
+[If you want to see live](https://todo-list-react-erenakhan.vercel.app/)
 
 
 # Getting Started with Create React App
